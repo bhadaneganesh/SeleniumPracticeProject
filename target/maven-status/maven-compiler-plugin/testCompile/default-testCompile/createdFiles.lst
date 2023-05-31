@@ -1,0 +1,4 @@
+com\qa\BasePage\BaseClass.class
+com\qa\TestCases\LoginTest.class
+com\qa\utilities\ReadConfig.class
+com\qa\PageObjects\LoginPage.class
